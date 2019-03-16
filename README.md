@@ -1,0 +1,1 @@
+# Eratosthenes Sieve Algorithm to find all prime numbers up to a given limit number. Algorithm implemented using the Java language. The development aims to have a deep undertanding of the algorithm efficiency
